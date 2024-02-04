@@ -5,18 +5,31 @@ Module 14 - Interactive Visualizations
 
 I will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
-**Horizontal Bar Chart**
+**Requirements**
+
+1. Create a Horizontal Bar Chart
 
 Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that sample individual.
   * Used sample_values as the values for the bar chart.
   * Used otu_ids as the labels for the bar chart.
   * Used otu_labels as the hovertext for the chart.
 
+2. Create a Bubble Chart
 
+Create a bubble chart that displays each sample.
+  * Used otu_ids for the x values.
+  * Used sample_values for the y values.
+  * Used sample_values for the marker size.
+  * Used otu_ids for the marker colors.
+  * Used otu_labels for the text values.
 
-**PART 2: Design Your Climate App**
+3. Displayed the sample metadata, i.e., an individual's demographic information.
+  
+5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
+6. Updated all the plots in the dashboard when a new sample is selected.
 
+7. Deployed my app (dashboard) to a free static page hosting service (i.e., GitHub Pages).
 
 **RESOURCES AND REFERENCES**
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
