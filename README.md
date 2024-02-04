@@ -9,19 +9,19 @@ I will build an interactive dashboard to explore the Belly Button Biodiversity d
 
 1. Create a Horizontal Bar Chart
 
-Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that sample individual.
-  * Used sample_values as the values for the bar chart.
-  * Used otu_ids as the labels for the bar chart.
-  * Used otu_labels as the hovertext for the chart.
+   Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that sample individual.
+     * Used sample_values as the values for the bar chart.
+     * Used otu_ids as the labels for the bar chart.
+     * Used otu_labels as the hovertext for the chart.
 
 2. Create a Bubble Chart
 
-Create a bubble chart that displays each sample.
-  * Used otu_ids for the x values.
-  * Used sample_values for the y values.
-  * Used sample_values for the marker size.
-  * Used otu_ids for the marker colors.
-  * Used otu_labels for the text values.
+   Create a bubble chart that displays each sample.
+     * Used otu_ids for the x values.
+     * Used sample_values for the y values.
+     * Used sample_values for the marker size.
+     * Used otu_ids for the marker colors.
+     * Used otu_labels for the text values.
 
 3. Displayed the sample metadata, i.e., an individual's demographic information.
   
