@@ -37,5 +37,5 @@ Please refer to [app.js](https://github.com/rperez025/belly-button-challenge/blo
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
 
 1. Reviewed the following instructor videos from Dr. A:
-   *[Module 14 Challenge Walkthrough](https://youtu.be/j7Q3Ax0d7vs)
+   * [Module 14 Challenge Walkthrough](https://youtu.be/j7Q3Ax0d7vs)
      - I referenced the above code in the video for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in [app.js](https://github.com/rperez025/belly-button-challenge/blob/main/static/js/app.js).
